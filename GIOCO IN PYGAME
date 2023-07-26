@@ -1,0 +1,7 @@
+Voglio creare un gioco in pygame. Il gioco in questione si chiama "PALLA RIMBALZANTE". Nella schermata principale c'è il titolo "PALLA RIMBALZANTE" e sotto il pulsante "AVVIA GIOCO".
+Quando premuto inizia il gioco, che è questo: Il giocatore è una palla rossa che deve saltare gli ostacoli (verdi o blu alternati) premendo il tasto sinistro del mouse.
+Sopra lo schermo ci sarà un contatore con scritto "PUNTEGGIO" con accanto il punteggio, che aumenta di uno a ogni ostacolo saltato.
+Quando si tocca un ostacolo esce il pop-up di sconfitta con la scritta "HAI PERSO!" e accanto il punteggio totalizzato. Inoltre sotto al pop-up ci saranno 2 pulsanti.
+Il primo è "RIGIOCA" che se premuto avvia un nuovo gioco e l'altro è "TORNA AL MENÙ PRINCIPALE" che se premuto si ritorna alla schermata iniziale.
+
+Per favore aiutatemi non dovrebbe essere difficile per persone brave. Conto su di voi.
